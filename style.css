@@ -1,0 +1,46 @@
+body {
+    background-color: #FF4081;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  section {
+    display: block;
+    max-width:500px;
+    margin-top:100px;
+    margin-left: auto;
+    margin-right:auto;
+    background-color:#ffffff;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    -webkit-box-shadow: 2px 3px 8px 4px rgba(0,0,0,0.45); 
+  box-shadow: 2px 3px 8px 4px rgba(0,0,0,0.45);  
+  }
+  
+  section h1 {
+    font-size:20px;
+  }
+  
+  header {
+    background-image: url('https://apexensino.com.br/wp-content/uploads/2020/06/aprender-a-programar.png');
+    background-size: cover;
+    max-height:100px;   
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width:150px;
+    height:150px;
+    border-radius:100%;
+    transform: translateY(-50%);
+    border: 8px solid white;
+  }
+  
+  div{
+    padding: 15px;
+    background-color: #e6effc;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
